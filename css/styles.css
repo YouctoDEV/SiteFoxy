@@ -37,7 +37,6 @@ h1 {
     font-size: 20px;
     border-radius: 5px;
     border: none;
-
 }
 .support {
     cursor: pointer;
@@ -51,4 +50,7 @@ h1 {
     font-size: 20px;
     border-radius: 5px;
     border: none;
+}
+.button-container > a {
+    text-decoration: none;
 }
