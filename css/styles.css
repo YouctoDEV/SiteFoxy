@@ -12,12 +12,10 @@ body {
     align-items: center;
     flex-direction: column;
     font-family: sans-serif;
-    overflow-y: auto; /* Ajout de la propriété overflow-y */
-    height: 2000px; /* Hauteur suffisamment grande pour permettre le défilement */
 }
 
 h1 {
-    margin-top: -1300px;
+    margin-top: 175px;
     font-size: 80px;
     color: var(--ecriture);
 }
