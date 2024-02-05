@@ -88,3 +88,10 @@ h2::before {
     top: 70%;
     right: 200px;
 }
+
+.imghelp > help{
+
+    color: black;
+    margin-right: 50px; /* Ajouter une marge à droite du texte */
+    
+}
